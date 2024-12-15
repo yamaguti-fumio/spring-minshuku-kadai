@@ -6,4 +6,4 @@ let maxDate = new Date();
    locale: 'ja',
    minDate: 'today',
    maxDate: maxDate
- });s
+ });
